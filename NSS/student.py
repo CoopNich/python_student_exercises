@@ -5,4 +5,4 @@ class Student:
         self.last_name = last_name
         self.slack_handle = slack_handle
         self.cohort = cohort
-        self.current_exercises = set()
+        self.current_exercises = list()
