@@ -14,7 +14,7 @@ cooper = Student("Cooper", "Nichols", "Coop", cohort_38)
 
 andy = Instructor("Andy", "Collins", "TGWG", cohort_38)
 
-
+andy.add_exercise(cooper, easy_exercise)
 
 
 

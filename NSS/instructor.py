@@ -9,5 +9,5 @@ class Instructor:
         self.speciality = ""
     
     def add_exercise(self, student, exercise):
-        student.current_exercises.update(exercise)
+        student.current_exercises.append(exercise)
         
