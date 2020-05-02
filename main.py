@@ -46,7 +46,7 @@ jisie.add_exercise(matt, hard_exercise)
 
 
 
-
+andy.add_exercise(cooper, easy_exercise)
 
 
 
